@@ -344,5 +344,5 @@ body{width:100%;height:auto;background:#fff;overflow-x:hidden;font-family:'encod
 .float-left{float:left;}
 .float-right{float:right !important;}
 /* Anything for floating objects. */
-.obj-left{float:left;}.obj-right{float:right;}.obj-clear:after{content:".";display:block;height:0;clear:both;visibility:hidden;}.obj-clear{display:inline-block;}.obj-clear{display:block;}
+.obj-left{float:left;}.obj-right{float:right;}.obj-clear:after{content:"/";display:block;height:0;clear:both;visibility:hidden;}.obj-clear{display:inline-block;}.obj-clear{display:block;}
 /* End of file 4f.framework.css */
