@@ -1,0 +1,32 @@
+/*  MAKE LAYOUT RESPONSIVE at 1024px FOR SMALLER SCREENS ================================================================ */
+	
+header {
+	width: 100%; /* 960px / 1024px */
+}
+
+#maincontent{
+	width: 100%; /* 960px / 1024px */
+}
+
+.maincontent{
+	width: 96.75%; /* 960px / 1024px */
+}
+
+footer {
+	width: 100%; /* 960px / 1024px */
+}
+
+.short-box{margin-bottom:39px;}
+.dane-kontaktowe{width:35%;}
+.formularz{width:65%;}
+.deska-padding{padding:30px 30px 20px 30px;}
+.f-left, .f-right{width:100% !important;margin-left:0 !important;}
+.wiecej-utworow{margin:0;margin:auto;float:none;margin-top:10px;margin-bottom:0px;}
+.col-40 ul{margin-top:-17px;}
+	.col-40 ul li{margin-bottom:4px;font-size:14px;}
+.przeczytaj-wiecej{margin-top:6px;}	
+.description.size15{margin-top:-15px;}
+.r-box{width:60%;margin:auto;}
+.box-ipad{width:100% !important;margin-left:0 !important;}
+.tytul{margin-top:10px;}
+.v-bottom{padding-bottom:40px;}

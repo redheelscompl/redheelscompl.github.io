@@ -1,0 +1,55 @@
+/*  MAKE LAYOUT RESPONSIVE at 768px FOR IPAD PORTRAIT ================================================================ */
+	
+header {
+	width: 100%; /* 960px / 1024px */
+}
+
+#maincontent{
+	width: 100%; /* 960px / 1024px */
+}
+
+.maincontent{
+	width: 97.75%; /* 960px / 1024px */
+}
+
+footer {
+	width: 100%; /* 960px / 1024px */
+}
+
+#social{display:none;}
+#top-section, .top-bg{width:100%;height:400px !important;background:url('../../images/zespol-rwd.jpg') no-repeat top center !important;}
+.logotyp{width:100% !important;text-align:center;margin-left:0 !important;}
+.navi{width:100% !important;margin-left:0 !important;margin-top:20px !important;}
+.menu-main-container{float:none;width:600px;margin:auto;}
+.navi ul li a{font-size:19px;}
+.oferta-bg, .bio-bg{background:#f2f2f2;}
+.offer-desc{width:100%;}
+.full{width:100% !important;margin-left:0 !important;}
+.box-50, .dane-kontaktowe, .formularz{width:100%;}
+.image{text-align:center;margin-bottom:-5px;}
+.a-box{margin-bottom:0px !important;}
+.a-img{display:inline-block;width:50%;}
+.box-arrow{display:none;}
+#skrzypce, #nuty-gora, #nuty-dol{display:none;}
+.subtitle{font-size:40px;}
+.p-header{font-size:36px;}
+.padding60{padding-bottom:30px !important;}
+.mikrofon h2{font-size:28px;}
+.r-box{width:75%;margin:auto;}
+.col-2{margin-top:30px !important;}
+.col-40, .col-60{width:100% !important;}
+.deska-padding{padding:20px;}
+.width130{margin:0;position:absolute;bottom:20px;right:20px;}
+.col-40{padding-bottom:1px;}
+.list-news.front{background:#ed2525;}
+.social ul{margin-top:-30px;}
+.dzyndzel-bialy{display:none;}
+.tytul{margin-top:10px;}
+.v-bottom{padding-bottom:40px;}
+.dzyndzel-szary, .frontowy{display:none;}
+.small-padd{margin:20px 0;}
+.yt{height:250px;}
+#lang{top:3px;}
+.v-desc{padding:28px;font-size:20px;}
+.mikrofon{background:#fff;}
+.short-line.front{width:30%;}

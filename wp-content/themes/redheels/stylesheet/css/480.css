@@ -1,0 +1,77 @@
+/*  MAKE LAYOUT RESPONSIVE at 480px FOR IPHONE LANDSCAPE ============================================ */
+
+	
+header {
+	width: 93.75%; /* 450px / 480px */
+}
+
+
+#maincontent{
+	width: 93.75%; /* 450px / 480px */
+}
+
+
+.maincontent{
+	width: 93%; /* 450px / 480px */
+}
+
+
+footer {
+	width: 93.75%; /* 450px / 480px */
+}	
+
+#social{display:none;}
+#top-section, .top-bg{width:100%;height:367px !important;background:url('../../images/zespol-480.jpg') no-repeat top center !important;}
+#rwd{display:block;}
+.navi{display:none;margin-top:15px !important;}
+.navi ul li a{width:97%;font-size:19px;margin-bottom:5px;margin-left:3%;}
+.menu-main-container{width:95% !important;background:url('../../images/pattern.png') repeat;padding:10px 2.5%;border: 1px solid rgba(255,255,255, 0.2);}
+.box-50, .dane-kontaktowe, .formularz, .col-35, .col-65, .bio-zajawka, .skrzypce-front{width:100%;}
+.full{margin-bottom:20px !important;}
+.mb-20{margin-bottom:20px !important;}
+.copyright{text-align:center;padding-bottom:20px;}
+.reserved{margin:15px 0 20px 0 !important;}
+#designed{float:none !important;margin:auto;margin-top:20px;}
+.p-header{font-size:26px;}
+.subtitle{font-size:33px;}
+.box-arrow{display:none;}
+#skrzypce, #nuty-gora, #nuty-dol{display:none;}
+.a-box{margin-bottom:0px !important;}
+.padding60{padding-bottom:30px !important;}
+.n-title{margin-bottom:50px;}
+.footer{margin-top:20px;}
+.mikrofon{background:#fff;}
+.mikrofon h2{font-size:28px;text-align:center;}
+.tytul{font-size:25px;}
+.padding-box{padding:15px 20px 30px 20px}
+.oferta-bg, .bio-bg{background:#f2f2f2;}
+.offer-desc{margin:30px 0;}
+.col-2{margin-top:30px !important;}
+.col-40, .col-60{width:100% !important;}
+.col-40{padding-bottom:15px;}
+.deska-padding{padding:20px;}
+.wiecej-utworow{margin:0;margin:auto;float:none;margin-top:25px;margin-bottom:25px;display:inline-block;}
+.logotyp{padding-top:25px;}
+.v-desc{padding:20px;font-size:25px;}
+.video-box{margin-bottom:20px !important;}
+.p-header.gallery{font-size:25px;}
+.elem-2{margin-left:1.6% !important;}
+.skrzypce-front{display:none;}
+.bg-grey-front .full{margin-bottom:0 !important;}
+.przeczytaj-wiecej{margin-bottom:30px;}
+.dzyndzel-bialy{display:none;}
+.dane-kontaktowe .description{font-size:16px;}
+.adres-muzyka, .adres-www{width:130px;font-size:13px;}
+.tytul{margin-top:20px;}
+.v-bottom{padding-bottom:40px;}
+.dzyndzel-bialy-news, .dzyndzel-szary, .frontowy{display:none;}
+.padding30{padding:20px;}
+.yt{height:250px;}
+.social ul{margin-top:0;}
+.n-box{width:85%;margin-left:7.5% !important;}
+#lang{top:3px;}
+.news-title{font-size:27px;}
+.single-news-title{padding-top:7px;}
+.n-line{display:none;}
+#yt{height:200px;}
+.short-line.front{width:50%;}
